@@ -4,9 +4,9 @@ pipeline{
           
       stage('one') {
           steps {
-              sh 'echo Hello Jai'
+              sh 'echo Hello-world-1'
           }
           
         }
     }
-}
+}}
